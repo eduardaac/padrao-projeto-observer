@@ -10,7 +10,7 @@ Isso demonstra o **princípio do Baixo Acoplamento (Loose Coupling)**, onde o `P
 -----
 
 ## 📌 Diagrama de Classes
-![Diagrama UML](diagrama_de_classes(1).jpeg)
+![Diagrama UML](diagrama_de_classes.jpeg)
 -----
 
 ## 👩‍💻 Autora
